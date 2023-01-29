@@ -5,10 +5,12 @@ from aiogram import Bot, Dispatcher, executor, types
 from aiogram.dispatcher import FSMContext
 from aiogram.dispatcher.filters.state import State, StatesGroup
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
-
-from config import token
+import sys
+#from config import token
 from server import *
 
+print(sys.argv)
+token = sys.argv[1]
 
 logging.basicConfig(level=logging.INFO)
 
