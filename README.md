@@ -9,7 +9,7 @@ Stepik ID: [465994370](https://stepik.org/users/465994370)
 
 The purpose of this project is to create a Telegram bot for working with images using neural networks. Two functions were implemented: super resolution and style transfer.
 
-[!(renamed webm)](img/style_bot_running.mp4)
+[Video of a running bot](https://raw.githubusercontent.com/IGEremin/Neural-Style-Telegram-Bot/main/img/style_bot_running.mp4)
 
 ### Super resolution
 
